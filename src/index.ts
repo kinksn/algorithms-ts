@@ -1,3 +1,10 @@
 export { mergeSorted } from './arrays/mergeSorted';
 export { quickSort } from './arrays/quickSort';
 export { binarySearch } from './arrays/binarySearch';
+export { heapSort } from './arrays/heapSort';
+export { SinglyLinkedList } from './lists/singlyLinkedList';
+export { DoublyLinkedList } from './lists/doublyLinkedList';
+export { HashTable } from './hash/hashTable';
+export { bfsTree } from './trees/bfsTree';
+export { bfsGraph } from './graphs/bfsGraph';
+export { dfsGraph } from './graphs/dfsGraph';
